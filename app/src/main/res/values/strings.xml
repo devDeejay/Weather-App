@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="Error_Title">Whoa! Something is not Right!</string>
+    <string name="Error_Message">Please Check Your Internet Connectivity And Try Again.</string>
+    <string name="NetworkNotAvailable">Network Not Available</string>
+    <string name="at_5_00_pm_it_will_be">At 5:00 PM It Will Be</string>
+    <string name="summary">Summary</string>
+</resources>
