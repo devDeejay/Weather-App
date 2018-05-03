@@ -175,7 +175,7 @@ public class MainActivity extends AppCompatActivity {
     private void getForecast(double latitude, double longitude) {
         Log.d(TAG, "Getting Forecast For " + latitude + " " + longitude);
 
-        String apiKey = "fbda269f4d7041f1b148c53734096b16";
+        String apiKey = "f269f4d7041f1b148c53734096b16";
         String forecastURL = "https://api.darksky.net/forecast/" + apiKey + "/" + latitude + "," + longitude;
         Log.d(TAG, "Forecast URL " + forecastURL);
         if( isNetworkAvailable()){
